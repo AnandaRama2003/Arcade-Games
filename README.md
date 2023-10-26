@@ -1,2 +1,2 @@
 # Arcade Games
- 
+ Game ini adalah sebuah permainan yang mengadaptasi dan menceritakan ulang tentang Kampung Ketandan Surabaya yang penuh dengan nilai sejarah dan budaya. Bertemakan Sci-Fi Side-scrolling Platformer, game ini diharapkan bisa memberi edukasi dan informasi terkait Kampung Wisata Budaya Ketandan dan memberikan experience yang menyenangkan juga interaktif agar orang-orang bisa lebih peduli dan aware dengan Kampung Wisata Budaya Ketandan.
